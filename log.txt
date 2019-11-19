@@ -1,0 +1,51 @@
+New Log Entry: {"Artist":"Kanye West","SongName":"POWER","AlbumName":"My Beautiful Dark Twisted Fantasy","SongPreview":"https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"}
+New Log Entry: {"Artist":"J. Cole","SongName":"Power Trip","AlbumName":"Born Sinner","SongPreview":"https://open.spotify.com/track/7FOJvA3PxiIU0DN3JjQ7jT"}
+New Log Entry: {"Artist":"SZA","SongName":"Power is Power (feat. The Weeknd & Travis Scott)","AlbumName":"For The Throne (Music Inspired by the HBO Series Game of Thrones)","SongPreview":"https://open.spotify.com/track/4cbdPT6uaBOgOQe3fLMofl"}
+New Log Entry: {"Artist":"Dermot Kennedy","SongName":"Power Over Me","AlbumName":"Power Over Me","SongPreview":"https://open.spotify.com/track/0OGNtqKkjI7FCE9HZ4Khgo"}
+New Log Entry: {"Artist":"Huey Lewis & The News","SongName":"The Power Of Love","AlbumName":"Greatest Hits: Huey Lewis And The News","SongPreview":"https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"}
+New Log Entry: {"Artist":"Dermot Kennedy","SongName":"Power Over Me","AlbumName":"Without Fear","SongPreview":"https://open.spotify.com/track/4tViDtaHuSLnh7HVJTrKhs"}
+New Log Entry: {"Artist":"Rend Collective","SongName":"YOUR NAME IS POWER","AlbumName":"YOUR NAME IS POWER","SongPreview":"https://open.spotify.com/track/161pnfRpiTTMZC1NWmjwh4"}
+New Log Entry: {"Artist":"Pantera","SongName":"Walk","AlbumName":"Vulgar Display of Power","SongPreview":"https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"}
+New Log Entry: {"Artist":"J. Cole","SongName":"Power Trip","AlbumName":"Power Trip","SongPreview":"https://open.spotify.com/track/1EbWiEra7ovNsMq3DeLSDy"}
+New Log Entry: {"Artist":"Prince","SongName":"Kiss","AlbumName":"Parade - Music from the Motion Picture Under the Cherry Moon","SongPreview":"https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"}
+New Log Entry: {"Artist":"Little Mix","SongName":"Power (feat. Stormzy)","AlbumName":"Glory Days: The Platinum Edition","SongPreview":"https://open.spotify.com/track/02gj0J38nzyO9lNi9mzi3A"}
+New Log Entry: {"Artist":"Prince","SongName":"Purple Rain","AlbumName":"Purple Rain","SongPreview":"https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"}
+New Log Entry: {"Artist":"Prince","SongName":"When Doves Cry","AlbumName":"Purple Rain","SongPreview":"https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"}
+New Log Entry: {"Artist":"We Are Messengers","SongName":"Power","AlbumName":"Power","SongPreview":"https://open.spotify.com/track/1Tli4ykzVexUn987y49vlj"}
+New Log Entry: {"Artist":"Nija","SongName":"MY POWER","AlbumName":"The Lion King: The Gift","SongPreview":"https://open.spotify.com/track/7ia5l12mCvbQTeAnG1oYpg"}
+New Log Entry: {"Artist":"Hozier","SongName":"Nina Cried Power (feat. Mavis Staples)","AlbumName":"Wasteland, Baby!","SongPreview":"https://open.spotify.com/track/4rcSvYi807urIIqfeX3tBo"}
+New Log Entry: {"Artist":"Greta Van Fleet","SongName":"Flower Power","AlbumName":"From The Fires","SongPreview":"https://open.spotify.com/track/4SE1kjgRulcwjNcc7oFFg4"}
+New Log Entry: {"Artist":"John Lennon","SongName":"Happy Xmas (War Is Over) - Remastered","AlbumName":"Power To The People - The Hits","SongPreview":"https://open.spotify.com/track/3zJw3rugfpVrmBeDDnUYzy"}
+New Log Entry: {"Artist":"Red Velvet","SongName":"Power Up","AlbumName":"Summer Magic - Summer Mini Album","SongPreview":"https://open.spotify.com/track/381g0b6QZxC13SzA2HRMIc"}
+New Log Entry: {"Artist":"Lana Del Rey","SongName":"Money Power Glory","AlbumName":"Ultraviolence (Deluxe)","SongPreview":"https://open.spotify.com/track/7Ms58r8G6Y0r1XLtpwoGxN"}
+New Log Entry: {"Venue":"Scotiabank Arena","City":"Toronto","DateAndTime":"2019-11-12T20:00:00"}
+New Log Entry: {"Venue":"Scotiabank Arena","City":"Toronto","DateAndTime":"2019-11-11T20:00:00"}
+New Log Entry: {"Venue":"TD Garden","City":"Boston","DateAndTime":"2019-11-14T20:00:00"}
+New Log Entry: {"Venue":"Wells Fargo Center","City":"Philadelphia","DateAndTime":"2019-11-18T20:00:00"}
+New Log Entry: {"Venue":"Mohegan Sun Arena","City":"Uncasville","DateAndTime":"2019-11-21T20:00:00"}
+New Log Entry: {"Venue":"Boardwalk Hall","City":"Atlantic City","DateAndTime":"2019-11-22T20:00:00"}
+New Log Entry: {"Venue":"PNC Arena","City":"Raleigh","DateAndTime":"2019-11-24T20:00:00"}
+New Log Entry: {"Venue":"Capital One Arena","City":"Washington","DateAndTime":"2019-11-25T20:00:00"}
+New Log Entry: {"Venue":"Prudential Center","City":"Newark","DateAndTime":"2019-11-16T20:00:00"}
+New Log Entry: {"Venue":"Barclays Center","City":"Brooklyn","DateAndTime":"2019-11-19T20:00:00"}
+New Log Entry: {"MovieTitle":"It","YearReleased":"2017","IMDBRating":"7.3","RotenTomatoesRating":"86%","CountryProducedOn":"USA, Canada","Language":"English","Plot":"In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town."}
+New Log Entry: {"Artist":"Lady Gaga","SongName":"Poker Face","AlbumName":"The Fame","SongPreview":"https://open.spotify.com/track/0WfKDYeUAoLA3vdvLKKWMW"}
+New Log Entry: {"Artist":"Lady Gaga","SongName":"Poker Face","AlbumName":"The Fame Monster (Deluxe Edition)","SongPreview":"https://open.spotify.com/track/7zACUQbWQxzT4aER7ityBV"}
+New Log Entry: {"Artist":"Vitamin String Quartet","SongName":"Poker Face","AlbumName":"VSQ Performs Lady Gaga","SongPreview":"https://open.spotify.com/track/05kjnMSB0wt8hF2WGnkVtB"}
+New Log Entry: {"Artist":"Marcela Mangabeira","SongName":"Poker Face (Bossa Version)","AlbumName":"Relaxing Bossa Lounge 4","SongPreview":"https://open.spotify.com/track/3tCo6yIax5tmjwvxqlngxi"}
+New Log Entry: {"Artist":"Glee Cast","SongName":"Poker Face (Glee Cast Version featuring Idina Menzel)","AlbumName":"Glee: The Music, Volume 3 Showstoppers","SongPreview":"https://open.spotify.com/track/1rc7RzuBYQ9KZIntUyEAVb"}
+New Log Entry: {"Artist":"Lady Gaga","SongName":"Poker Face","AlbumName":"The Fame Monster (Deluxe Edition)","SongPreview":"https://open.spotify.com/track/5ztAPqM38EJOL9hmNAUEU7"}
+New Log Entry: {"Artist":"Rockabye Baby!","SongName":"Poker Face","AlbumName":"Lullaby Renditions of Lady Gaga","SongPreview":"https://open.spotify.com/track/6efjVlEEzXhDFrGStA50od"}
+New Log Entry: {"Artist":"Scott Bradlee's Postmodern Jukebox","SongName":"Poker Face","AlbumName":"Fake Blues","SongPreview":"https://open.spotify.com/track/1hxGIAgMvDQkn1gmDR3v6g"}
+New Log Entry: {"Artist":"First to Eleven","SongName":"Poker Face","AlbumName":"Poker Face","SongPreview":"https://open.spotify.com/track/3egxjwwjrum7j4XJm2fnir"}
+New Log Entry: {"Artist":"Lady Gaga","SongName":"Poker Face - Live at The Cherrytree House Piano & Voice Version","AlbumName":"The Cherrytree Sessions","SongPreview":"https://open.spotify.com/track/48Vua7xS3Wx7KpDkuRHg9g"}
+New Log Entry: {"Artist":"Lady Gaga","SongName":"Poker Face - LLG vs GLG Radio Mix","AlbumName":"The Remix","SongPreview":"https://open.spotify.com/track/6RTN95dYXGkOFcB2foeCKo"}
+New Log Entry: {"Artist":"Marcela Mangabeira","SongName":"Poker Face - Lounge Mix","AlbumName":"Colors of Rio","SongPreview":"https://open.spotify.com/track/0J6j3OfN31nxblsJURwWvJ"}
+New Log Entry: {"Artist":"Blowsight","SongName":"Poker Face","AlbumName":"Dystopia Lane","SongPreview":"https://open.spotify.com/track/1rdTe0N3r3ZghtPGPfJFlh"}
+New Log Entry: {"Artist":"LA Nightcore","SongName":"Poker Face (Nightcore Version)","AlbumName":"Poker Face (Nightcore Version)","SongPreview":"https://open.spotify.com/track/516pPwxBsKKXh4WvznRgbX"}
+New Log Entry: {"Artist":"First to Eleven","SongName":"Poker Face","AlbumName":"Covers, Vol. 3","SongPreview":"https://open.spotify.com/track/1Dew5RWbfy9GER1yOaoMSD"}
+New Log Entry: {"Artist":"The University of Oklahoma Marching Band","SongName":"Poker Face","AlbumName":"The Pride of Oklahoma 2010","SongPreview":"https://open.spotify.com/track/70Z62QkRWQs5hNixIna5pd"}
+New Log Entry: {"Artist":"Idina Menzel","SongName":"Poker Face","AlbumName":"Live: Barefoot At The Symphony","SongPreview":"https://open.spotify.com/track/6gX1W8cUgxljqEq2O8kQLz"}
+New Log Entry: {"Artist":"Foundry","SongName":"Poker Face","AlbumName":"Poker Face","SongPreview":"https://open.spotify.com/track/2LTNOn0pWj6BiBcgTlSRWG"}
+New Log Entry: {"Artist":"LUCKI","SongName":"Poker Face","AlbumName":"Watch My Back","SongPreview":"https://open.spotify.com/track/35XQC70WCJHUi52mIdxXw2"}
+New Log Entry: {"Artist":"Electric Light Orchestra","SongName":"Poker","AlbumName":"Face the Music","SongPreview":"https://open.spotify.com/track/0JNvPcYF6ga92AoUSGbTxE"}
