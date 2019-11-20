@@ -49,3 +49,47 @@ New Log Entry: {"Artist":"Idina Menzel","SongName":"Poker Face","AlbumName":"Liv
 New Log Entry: {"Artist":"Foundry","SongName":"Poker Face","AlbumName":"Poker Face","SongPreview":"https://open.spotify.com/track/2LTNOn0pWj6BiBcgTlSRWG"}
 New Log Entry: {"Artist":"LUCKI","SongName":"Poker Face","AlbumName":"Watch My Back","SongPreview":"https://open.spotify.com/track/35XQC70WCJHUi52mIdxXw2"}
 New Log Entry: {"Artist":"Electric Light Orchestra","SongName":"Poker","AlbumName":"Face the Music","SongPreview":"https://open.spotify.com/track/0JNvPcYF6ga92AoUSGbTxE"}
+New Log Entry: {"Venue":"Wells Fargo Center","City":"Philadelphia","DateAndTime":"2019-11-18T20:00:00"}
+New Log Entry: {"Venue":"Barclays Center","City":"Brooklyn","DateAndTime":"2019-11-19T20:00:00"}
+New Log Entry: {"Venue":"PNC Arena","City":"Raleigh","DateAndTime":"2019-11-24T20:00:00"}
+New Log Entry: {"Venue":"Mohegan Sun Arena","City":"Uncasville","DateAndTime":"2019-11-21T20:00:00"}
+New Log Entry: {"Venue":"Boardwalk Hall","City":"Atlantic City","DateAndTime":"2019-11-22T20:00:00"}
+New Log Entry: {"Venue":"Viejas Arena","City":"San Diego","DateAndTime":"2020-01-10T20:00:00"}
+New Log Entry: {"Venue":"Viejas Arena","City":"San Diego","DateAndTime":"2020-01-12T20:00:00"}
+New Log Entry: {"Venue":"Capital One Arena","City":"Washington","DateAndTime":"2019-11-25T20:00:00"}
+New Log Entry: {"Venue":"Viejas Arena","City":"San Diego","DateAndTime":"2020-01-13T19:30:00"}
+New Log Entry: {"Venue":"Save Mart Center","City":"Fresno","DateAndTime":"2020-01-15T19:30:00"}
+New Log Entry: {"Venue":"T-Mobile Arena","City":"Las Vegas","DateAndTime":"2020-01-17T20:00:00"}
+New Log Entry: {"Venue":"Gila River Arena","City":"Glendale","DateAndTime":"2020-01-18T19:30:00"}
+New Log Entry: {"Venue":"Frank C. Erwin, Jr., Special Events Center","City":"Austin","DateAndTime":"2020-01-21T19:30:00"}
+New Log Entry: {"Venue":"American Airlines Center","City":"Dallas","DateAndTime":"2020-01-22T19:30:00"}
+New Log Entry: {"Venue":"State Farm Arena","City":"Atlanta","DateAndTime":"2020-01-28T19:30:00"}
+New Log Entry: {"Venue":"Bridgestone Arena","City":"Nashville","DateAndTime":"2020-01-29T19:30:00"}
+New Log Entry: {"Venue":"FedEx Forum","City":"Memphis","DateAndTime":"2020-01-31T19:00:00"}
+New Log Entry: {"Venue":"Smoothie King Center","City":"New Orleans","DateAndTime":"2020-02-01T20:00:00"}
+New Log Entry: {"Venue":"RAC Arena","City":"Perth","DateAndTime":"2020-02-14T19:00:00"}
+New Log Entry: {"Venue":"Qudos Bank Arena","City":"Sydney","DateAndTime":"2020-02-17T19:00:00"}
+New Log Entry: {"Venue":"Brisbane Entertainment Centre","City":"Boondall","DateAndTime":"2020-02-20T19:00:00"}
+New Log Entry: {"Venue":"Rod Laver Arena","City":"Melbourne","DateAndTime":"2020-02-22T19:00:00"}
+New Log Entry: {"Venue":"Spark Arena","City":"Auckland","DateAndTime":"2020-02-28T19:00:00"}
+New Log Entry: {"Artist":"Kanye West","SongName":"POWER","AlbumName":"My Beautiful Dark Twisted Fantasy","SongPreview":"https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"}
+New Log Entry: {"Artist":"J. Cole","SongName":"Power Trip","AlbumName":"Born Sinner","SongPreview":"https://open.spotify.com/track/7FOJvA3PxiIU0DN3JjQ7jT"}
+New Log Entry: {"Artist":"Dermot Kennedy","SongName":"Power Over Me","AlbumName":"Power Over Me","SongPreview":"https://open.spotify.com/track/0OGNtqKkjI7FCE9HZ4Khgo"}
+New Log Entry: {"Artist":"SZA","SongName":"Power is Power (feat. The Weeknd & Travis Scott)","AlbumName":"For The Throne (Music Inspired by the HBO Series Game of Thrones)","SongPreview":"https://open.spotify.com/track/4cbdPT6uaBOgOQe3fLMofl"}
+New Log Entry: {"Artist":"Huey Lewis & The News","SongName":"The Power Of Love","AlbumName":"Greatest Hits: Huey Lewis And The News","SongPreview":"https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"}
+New Log Entry: {"Artist":"John Lennon","SongName":"Happy Xmas (War Is Over) - Remastered","AlbumName":"Power To The People - The Hits","SongPreview":"https://open.spotify.com/track/3zJw3rugfpVrmBeDDnUYzy"}
+New Log Entry: {"Artist":"Pantera","SongName":"Walk","AlbumName":"Vulgar Display of Power","SongPreview":"https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"}
+New Log Entry: {"Artist":"Dermot Kennedy","SongName":"Power Over Me","AlbumName":"Without Fear","SongPreview":"https://open.spotify.com/track/4tViDtaHuSLnh7HVJTrKhs"}
+New Log Entry: {"Artist":"Rend Collective","SongName":"YOUR NAME IS POWER","AlbumName":"YOUR NAME IS POWER","SongPreview":"https://open.spotify.com/track/161pnfRpiTTMZC1NWmjwh4"}
+New Log Entry: {"Artist":"Little Mix","SongName":"Power (feat. Stormzy)","AlbumName":"Glory Days: The Platinum Edition","SongPreview":"https://open.spotify.com/track/02gj0J38nzyO9lNi9mzi3A"}
+New Log Entry: {"Artist":"Prince","SongName":"Kiss","AlbumName":"Parade - Music from the Motion Picture Under the Cherry Moon","SongPreview":"https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"}
+New Log Entry: {"Artist":"Prince","SongName":"Purple Rain","AlbumName":"Purple Rain","SongPreview":"https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"}
+New Log Entry: {"Artist":"We Are Messengers","SongName":"Power","AlbumName":"Power","SongPreview":"https://open.spotify.com/track/1Tli4ykzVexUn987y49vlj"}
+New Log Entry: {"Artist":"Hozier","SongName":"Nina Cried Power (feat. Mavis Staples)","AlbumName":"Wasteland, Baby!","SongPreview":"https://open.spotify.com/track/4rcSvYi807urIIqfeX3tBo"}
+New Log Entry: {"Artist":"Nija","SongName":"MY POWER","AlbumName":"The Lion King: The Gift","SongPreview":"https://open.spotify.com/track/7ia5l12mCvbQTeAnG1oYpg"}
+New Log Entry: {"Artist":"Prince","SongName":"When Doves Cry","AlbumName":"Purple Rain","SongPreview":"https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"}
+New Log Entry: {"Artist":"Céline Dion","SongName":"The Power of Love","AlbumName":"The Colour Of My Love","SongPreview":"https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"}
+New Log Entry: {"Artist":"Greta Van Fleet","SongName":"Flower Power","AlbumName":"From The Fires","SongPreview":"https://open.spotify.com/track/4SE1kjgRulcwjNcc7oFFg4"}
+New Log Entry: {"Artist":"Red Velvet","SongName":"Power Up","AlbumName":"Summer Magic - Summer Mini Album","SongPreview":"https://open.spotify.com/track/381g0b6QZxC13SzA2HRMIc"}
+New Log Entry: {"Artist":"J. Cole","SongName":"Power Trip","AlbumName":"Power Trip","SongPreview":"https://open.spotify.com/track/1EbWiEra7ovNsMq3DeLSDy"}
+New Log Entry: {"MovieTitle":"This Is the End","YearReleased":"2013","IMDBRating":"6.6","RotenTomatoesRating":"83%","CountryProducedOn":"USA","Language":"English, Spanish","Plot":"6 Los Angeles celebrities are stuck in James Franco's house after a series of devastating events just destroyed the city. Inside, the group not only have to face the apocalypse, but themselves."}
