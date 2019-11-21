@@ -11,7 +11,3 @@
     - This command will read the file labeled random text and it will perform the acion listed there.
     The text file says "concert-this,Tool"
 ![img3](/screenshots/four.png)
-<img src="screenshots/one.png" alt="image">
-<img src="screenshots/two.png" alt="image">
-<img src="screenshots/three.png" alt="image">
-<img src="screenshots/four.png" alt="image">
